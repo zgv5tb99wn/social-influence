@@ -1,0 +1,11 @@
+Metric,Value
+Reaction Quality Change (mean),0.030
+Intention Quality Change (mean),0.051
+Certainty Change (mean),0.261
+Reaction Improvement Rate,39.1%
+Intention Improvement Rate,42.0%
+Reaction Semantic Similarity (mean),0.198
+Intention Semantic Similarity (mean),0.374
+Correlation: Reaction-Intention Quality,0.204
+Correlation: Certainty-Reaction Quality,0.038
+Correlation: Certainty-Intention Quality,0.004
