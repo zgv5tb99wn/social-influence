@@ -10,8 +10,6 @@ from openai import OpenAI, RateLimitError, APIError
 from pydantic import BaseModel
 
 
-# Define the structured output schemas for OpenAI
-
 class PsychologicalDepthAnalysis(BaseModel):
     """Analysis of psychological depth in responses."""
     before_level: Literal["powierzchowny", "średni", "głęboki"]
